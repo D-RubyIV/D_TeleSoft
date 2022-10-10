@@ -1,14 +1,13 @@
 - Author By Telegram: @ImDinne
 - Latest Version: 1.8.5
 - Tool mở Free đến hết 12/10/2022
-- Trong thời gian này bên mình đang cập nhật và hoàn thiện tool hơn 
 
-Mọi người tham gia nhóm để thảo luận và cập nhật bản mới nhất(V1.6.2)
+Mọi người tham gia nhóm để thảo luận và cập nhật bản mới nhất(V1.8.5)
 Group Telegram: https://t.me/D_Telesoft_Support_Vn
 
 
-- Lưu ý khi dùng tool dành cho Session mới:
-+ Mua ngày đều nên để giới hạn kéo là 5 mem/ngày
+* Lưu ý khi dùng tool dành cho Session mới:
++ Mua ngày đều nên để giới hạn kéo là 10 mem/ngày
 + Để ít nhất 12h mới được Check live
 + Để delay check live là 1000ms trở lên
 + Khi Session đã quen vài ngày anh muốn múa gì thì múa =)))
@@ -17,45 +16,8 @@ Group Telegram: https://t.me/D_Telesoft_Support_Vn
 + Yêu cầu chỉnh sửa lại tránh tình trạng dùng chung api dẫn tới "Die session"
 + Cách lấy mình đã ghim trong nhóm Support
 
-- Hướng dẫn:
-1. THÊM SESSION VÀO TOOL:
-- Mn thêm các file session vào thư mục Session_Account
-- Thư mục Session_Account: Chứa tất cả các session(Sau khi lọc sẽ chỉ chứa session good)
-- Thư mục Session_Account_Limit: Chứa tất cả các session đã bị giới hạn bởi Telegram
-- Thư mục Session_Account_Die: Chứa tất cả các session đã bị khóa(chết) bởi Telegram
-* Cách lọc/phân loại session: -> Check Live[Add Mem] -> Arrage Session[Setting] -> Thoát ra vào -> Như vậy các session đã đc phân chia riêng ra hoàn tất
-
-2. LỌC MEM NHÓM CÔNG KHAI: 
-- Lọc loại mem(Mặc định toàn thế giới): Type_Scrape[Setting] -> Chọn Loại
-- Lọc Mem Online(Mặc định 2 ngày): Time Scrape[Setting] -> Nút Time Scrape góc phải bên dưới -> Chọn thời gian lọc
-- Nhập link nhóm công khai (Định dạng: https://t.me/ABCDEF  ): -> Public_Link[Public Scan] -> Nút Scrape -> Chuyển màu xanh là đã thành công
-- Định dạng trên là Link nhóm công khai
-
-3. LỌC MEM NHÓM KÍN:
-- Lọc loại mem(Mặc định toàn thế giới): Type_Scrape[Setting] -> Chọn Loại
-- Lọc Mem Online(Mặc định 2 ngày): Time Scrape[Setting] -> Nút Time Scrape góc phải bên dưới -> Chọn thời gian lọc
-- Nhập link nhóm kín (Định dạng: https://t.me/+ABCDEF|123456789 ): -> Private_Link[Private Scan] -> Nút Scrape -> Chuyển màu xanh là đã thành công
-- Định dạng trên là Link nhóm kín|Id nhóm kín
-- Các lấy Id nhóm kín(@Druc_Co_Bbot sẽ hỗ trợ các bạn lấy Id):
-+ B1: Nhắn tin: /start ->  /getid_privategroup 
-+ B2: Gửi link nhóm kín cho Bot -> Bot trả kết quả Id nhóm về 
-
-
-4. CÁCH KÉO MEM:
-- B1: Đầu tiên các bạn cần kiểm tra session trước -> Nút Check Live [Add Mem] -> Chọn tài khoản( có thể nhấn nút Chose all[Add Mem]) để chọn tất cả session good
-- B2: Nhập link nhóm(Công khai) cần kéo vào -> Ô Input Link Group Here [Add Mem]
-- B3: Chọn Thêm mem bằng Id/User: -> Setting Addmem [Setting] -> Tích dấu loại chọn(Mặc định là User)
-- B4: Sau đó là load dữ liệu mem đã lọc -> Nút Load Data File [Load Data]
-- B5: Bắt đầu thêm mem vào nhóm -> Start Add Mem[Add Mem] -> Chuyển màu là đã thành công
-- B6: + Đối với Add By Id(Lựa chọn ở B3): -> Cần đợi tất cả các session lọc nhóm(1-3 phút) -> Check tiến độ ở Action [Setting] đến khi hiện (Done All) là hoàn tất
-      + Đối với Add By Id(Lựa chọn ở B3): -> Các bạn không cần đợi
-- B7: Quay lại phần [Load Data] để kiểm tra tiến độ kéo mem
-* Dừng thêm mem: -> Stop Add Mem [Add Mem]
-* Trong lúc thêm mem mn có thể tùy ý chỉnh các thông số: Delay_Add_Mem, Total_Thread_Add, Limit Add/Session ở phần setting
-
-5. MỘT SỐ LƯU Ý:
+* MỘT SỐ LƯU Ý:
 - Limit Add/Session: Giới hạn(tùy chỉnh) số lượng mem một tài khoản được phép thêm trong một ngày mặc định là 10 member/session/ngày
-- Delay_Add_Mem: Khoảng cách thời gian các lần kéo mem
 - Total_Thread_Add: Để mức 3 - 6 nếu máy tính yếu
 - Tất cả các nút màu tím đều có chức năng nhé
 Mọi thắc mắc khó khăn mọi người hỏi trong nhóm, Support bên mình sẽ hỗ trợ
