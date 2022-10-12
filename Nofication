@@ -24,9 +24,6 @@ Group Telegram: https://t.me/D_Telesoft_Support_Vn
 
 
 - Hướng dẫn:
-
-
-
 1. THÊM SESSION VÀO TOOL:
 - Mn thêm các file session vào thư mục Session_Account
 - Thư mục Session_Account: Chứa tất cả các session(Sau khi lọc sẽ chỉ chứa session Good)
@@ -35,6 +32,9 @@ Group Telegram: https://t.me/D_Telesoft_Support_Vn
 
 
 2. ĐỔI ĐƯỜNG DẪN ĐẾN FILE PROXY RIÊNG
+-> File Proxy hiện tại là của mình, dùng chung có thể làm acc die hoặc limt:
+-> Mn chủ động đổi Proxy cho riêng 
+
 - B1: Chọn nút Path Proxy
 - B2: Chọn file Proxy mình muốn
 Loại User:Pass -> Định dạng bên trong sẽ như thế này 188.74.183.126:8395:ohnykiyp:ykm0iy9ogc64
@@ -42,6 +42,9 @@ Loại Ip:Port -> Định dạng bên trong sẽ như thế này 188.74.183.126:
 - B3: Dựa vào loại Proxy bạn chọn tích dấu Ip:Port hoặc User:Pass
 - B4: Save -> Hoàn tất
 
+. MẸO NHỎ:
+- Nhận 10 proxy socks5 miễn phí sau khi đăng kí tài khoản web share:
+- Link đăng kí: https://www.webshare.io/?referral_code=zluiuzvvqjnk
 
 
 
@@ -86,9 +89,7 @@ Loại Ip:Port -> Định dạng bên trong sẽ như thế này 188.74.183.126:
 - Không thực hiện đúng quy trình có thể khiến out tool
 
 
-. MẸO NHỎ:
-- Nhận 10 proxy socks5 miễn phí sau khi đăng kí tài khoản web share:
-- Link đăng kí: https://www.webshare.io/?referral_code=zluiuzvvqjnk
+
 
 
 Mọi thắc mắc, khó khăn mọi người hỏi trong nhóm. Support bên mình sẽ hỗ trợ
