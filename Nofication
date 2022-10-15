@@ -1,24 +1,21 @@
 - Author By Telegram: @ImDinne
 - Creat By D_Software
-- Latest Version: 2.0.1
-- Tool mở Free đến hết 15/10/2022
-- Trong thời gian này bên mình đang cập nhật và hoàn thiện tool hơn 
+- Latest Version: 2.0.2
 
-Mọi người tham gia nhóm để thảo luận và cập nhật bản mới nhất(V2.0.1)
-Group Telegram: https://t.me/D_Telesoft_Support_Vn
+*Group Telegram: https://t.me/D_Telesoft_Support_Vn
 
 
-- Lưu ý khi dùng tool dành cho Session mới:
+* Lưu ý khi dùng tool dành cho Session mới:
 + Mua ngày đều nên để giới hạn kéo là 10 mem/ngày
 + Để ít nhất 12h mới được Check live
 + Để delay check live là 1000ms trở lên
 + Để delay check live là 3000ms trở lên
 + Khi Session đã quen vài ngày anh muốn múa gì thì múa =)))
 
--Quan trọng [File Api.txt]: 
+* Quan trọng [File Api.txt]: 
 + Yêu cầu chỉnh sửa lại tránh tình trạng dùng chung api dẫn tới "Die session"
 + Hướng dẫn lấy Api riêng tại đây: https://www.youtube.com/watch?v=8naENmP3rg4&t=8s
--Bắt buộc [File Session]:
+- Bắt buộc [File Session]:
 + Yêu cầu cần có file session để sử dụng D_TeleSoft
 + Đọc hướng dẫn để biết thêm chi tiết 
 
@@ -83,13 +80,7 @@ Loại Ip:Port -> Định dạng bên trong sẽ như thế này 188.74.183.126:
 6. MỘT SỐ LƯU Ý:
 - Limit Add/Session: Giới hạn(tùy chỉnh) số lượng mem một tài khoản được phép thêm trong một ngày mặc định là 10 member/session/ngày
 - Delay_Add_Mem: Khoảng cách thời gian các lần kéo mem
-- Total_Thread_Add: Để mức 3 - 6 nếu máy tính yếu
 - Tất cả các nút màu tím đều có chức năng nhé
-- Không thực hiện đúng quy trình có thể khiến out tool
-
-
-
-
 
 Mọi thắc mắc, khó khăn mọi người hỏi trong nhóm. Support bên mình sẽ hỗ trợ
 Trân trọng!!!
