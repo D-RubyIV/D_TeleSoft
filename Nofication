@@ -1,16 +1,9 @@
 - Author By Telegram: @ImDinne
 - Creat By D_Software
-- Latest Version: 2.1.5
+- Latest Version: 2.3.6
 
 *Group Telegram: https://t.me/D_Telesoft_Support_Vn
 
-
-* Lưu ý khi dùng tool dành cho Session mới:
-+ Mua ngày đều nên để giới hạn kéo là 10 mem/ngày
-+ Để ít nhất 12h mới được Check live
-+ Để delay check live là 1000ms trở lên
-+ Để delay check live là 3000ms trở lên
-+ Khi Session đã quen vài ngày anh muốn múa gì thì múa =)))
 
 * Quan trọng [File Api.txt]: 
 + Yêu cầu chỉnh sửa lại tránh tình trạng dùng chung api dẫn tới "Die session"
@@ -25,6 +18,7 @@
 - Mn thêm các file session vào thư mục Session_Account
 - Thư mục Session_Account: Chứa tất cả các session(Sau khi lọc sẽ chỉ chứa session Good)
 - Thư mục Session_Account_Limit: Chứa tất cả các session đã bị giới hạn bởi Telegram
+- Thư mục Session_Account_Temporary: Chứa tất cả các session đã bị chặn thời hạn bởi Telegram
 - Thư mục Session_Account_Die: Chứa tất cả các session đã bị khóa(chết) bởi Telegram
 
 
@@ -39,10 +33,6 @@ Loại Ip:Port -> Định dạng bên trong sẽ như thế này 188.74.183.126:
 - B3: Dựa vào loại Proxy bạn chọn tích dấu Ip:Port hoặc User:Pass
 - B4: Save -> Hoàn tất
 
-* MẸO NHỎ:
-- Nhận 10 proxy socks5 miễn phí sau khi đăng kí tài khoản web share:
-- Link đăng kí: https://www.webshare.io/?referral_code=zluiuzvvqjnk
-* LƯU Ý: KHI DÙNG PROXY IP:PORT của webshare cần xác thực trước mới có thể sử dụng
 
 
 
@@ -59,12 +49,9 @@ Loại Ip:Port -> Định dạng bên trong sẽ như thế này 188.74.183.126:
 4. CÁCH KÉO MEM:
 - B1: Đầu tiên các bạn cần kiểm tra session trước -> Nút Check Live [Add Mem] -> Chọn tài khoản( có thể nhấn nút Chose all[Add Mem]) để chọn tất cả session good
 - B2: Nhập link nhóm(Công khai) cần kéo vào ô nhập link nhóm thêm mem
-- B3: Chọn Thêm mem bằng Id/User: -> Tích dấu loại chọn(Mặc định là User)
+- B3: Chọn Thêm mem bằng Id/User: -> Tích dấu loại chọn(Mặc định là Id)
 - B4: Sau đó là load dữ liệu mem đã lọc -> Nút Load Data File [Load Data]
 - B5: Bắt đầu thêm mem vào nhóm -> Start Add Mem[Add Mem] -> Chuyển màu là đã thành công
-- B6: + Đối với Add By Id(Lựa chọn ở B3): -> Cần đợi tất cả các session lọc nhóm(1-3 phút) -> Check tiến độ ở Action [Setting] đến khi hiện (Done All) là hoàn tất
-      + Đối với Add By Id(Lựa chọn ở B3): -> Các bạn không cần đợi
-- B7: Quay lại phần [Load Data] để kiểm tra tiến độ kéo mem
 * Dừng thêm mem: -> Stop Add Mem
 * Trong lúc thêm mem mn có thể tùy ý chỉnh các thông số: Delay_Add_Mem, Total_Thread_Add, Limit Add/Session ở phần setting
 
@@ -73,7 +60,7 @@ Loại Ip:Port -> Định dạng bên trong sẽ như thế này 188.74.183.126:
 5. TƯƠNG TÁC ĐƠN/ĐA NHÓM
 - B1: Chuẩn bị kịch bản(Tự tạo riêng hoặc sao chép từ nhóm khác)
 - B2: Sau khi đã chuẩn bị sẵn kịch bản -> Load Data
-- B3: Nhập các link nhóm công khai càn tương tác vào ô Input Target
+- B3: Nhập các link nhóm công khai càn tương tác 
 - B4: Start -> Hoàn tất
 
 
