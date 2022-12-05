@@ -1,6 +1,6 @@
 - Author By Telegram: @ImDinne
 - Creat By D_Software
-- Latest Version: 2.3.6
+- Latest Version: Ultimate 0.0.2
 
 *Group Telegram: https://t.me/D_Telesoft_Support_Vn
 
@@ -21,7 +21,6 @@
 - Thư mục Session_Account_Temporary: Chứa tất cả các session đã bị chặn thời hạn bởi Telegram
 - Thư mục Session_Account_Die: Chứa tất cả các session đã bị khóa(chết) bởi Telegram
 
-
 2. ĐỔI ĐƯỜNG DẪN ĐẾN FILE PROXY RIÊNG
 -> File Proxy hiện tại là của mình, dùng chung có thể làm acc die hoặc limt:
 -> Mn chủ động đổi Proxy cho riêng 
@@ -33,9 +32,6 @@ Loại Ip:Port -> Định dạng bên trong sẽ như thế này 188.74.183.126:
 - B3: Dựa vào loại Proxy bạn chọn tích dấu Ip:Port hoặc User:Pass
 - B4: Save -> Hoàn tất
 
-
-
-
 3. LỌC MEM NHÓM:
 - Lọc loại mem(Mặc định toàn thế giới):
 - Lọc Mem Online(Mặc định 2 ngày) có thể tùy chỉnh 
@@ -43,10 +39,7 @@ Loại Ip:Port -> Định dạng bên trong sẽ như thế này 188.74.183.126:
 -> Nút Scrape -> Chuyển màu xanh là đã thành công -> Đợi chuyển màu tím là hoàn tất
 - Ví dụ https://t.me/+JJv2Liew6980NDFl hoặc https://t.me/TradeCoinUnderGround
 
- 
-
-
-4. CÁCH KÉO MEM:
+ 4. CÁCH KÉO MEM:
 - B1: Đầu tiên các bạn cần kiểm tra session trước -> Nút Check Live [Add Mem] -> Chọn tài khoản( có thể nhấn nút Chose all[Add Mem]) để chọn tất cả session good
 - B2: Nhập link nhóm(Công khai) cần kéo vào ô nhập link nhóm thêm mem
 - B3: Chọn Thêm mem bằng Id/User: -> Tích dấu loại chọn(Mặc định là Id)
@@ -55,14 +48,11 @@ Loại Ip:Port -> Định dạng bên trong sẽ như thế này 188.74.183.126:
 * Dừng thêm mem: -> Stop Add Mem
 * Trong lúc thêm mem mn có thể tùy ý chỉnh các thông số: Delay_Add_Mem, Total_Thread_Add, Limit Add/Session ở phần setting
 
-
-
 5. TƯƠNG TÁC ĐƠN/ĐA NHÓM
 - B1: Chuẩn bị kịch bản(Tự tạo riêng hoặc sao chép từ nhóm khác)
 - B2: Sau khi đã chuẩn bị sẵn kịch bản -> Load Data
 - B3: Nhập các link nhóm công khai càn tương tác 
 - B4: Start -> Hoàn tất
-
 
 6. MỘT SỐ LƯU Ý:
 - Limit Add/Session: Giới hạn(tùy chỉnh) số lượng mem một tài khoản được phép thêm trong một ngày mặc định là 10 member/session/ngày
