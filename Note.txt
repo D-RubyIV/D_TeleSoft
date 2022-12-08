@@ -1,4 +1,4 @@
-
+#BẢNG MÃ LỖI:
 [01] - Cài đặt quyền riêng tư của người dùng không cho phép bạn làm điều này.
 [02] - Người dùng được cung cấp không phải là người liên hệ chung.
 [03] - Người dùng không tồn tại.
@@ -8,7 +8,7 @@
 [07] - Người dùng này đã bị loại khỏi siêu nhóm / kênh này.
 [08] - Một trong những người dùng mà bạn cố gắng thêm đã ở trong quá nhiều kênh / siêu nhóm.
 [09] - Bạn bị cấm gửi tin nhắn trong siêu nhóm / kênh.
-[10] - Cuộc trò chuyện không hợp lệ cho yêu cầu này.
+[10] - Tài Khoản Telegram bị quét
 [11] - Tài khoản bị chặn chức năng tạm thời.
 [12] - Một trong những người dùng mà bạn cố gắng thêm đã ở trong quá nhiều kênh / siêu nhóm.
 [13] - You can't write in this chat.
