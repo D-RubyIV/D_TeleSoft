@@ -1,1 +1,5 @@
-Hello Im Admin
+#Nếu kéo đơn luồng
+=> Để tốc độ kéo bằng 0
+#Nếu kéo đa luồng
+=> Để mức 3-4 là ổn
+Trân trọng!!!
