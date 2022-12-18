@@ -11,7 +11,7 @@
 [10] - Tài Khoản Telegram bị quét
 [11] - Tài khoản bị chặn chức năng tạm thời.
 [12] - Một trong những người dùng mà bạn cố gắng thêm đã ở trong quá nhiều kênh / siêu nhóm.
-[13] - You can't write in this chat.
+[13] - You can't write in this chat.(Vui lòng kiểm tra lại link hoặc quyền thêm thành viên của nhóm)
 [14] - Kênh được chỉ định là riêng tư và bạn không có quyền truy cập vào kênh đó. Một lý do khác có thể là bạn đã bị cấm sử dụng nó.
 [15] - Tài khoản đã gửi quá nhiều yêu cầu .
 [16] - Cần có đặc quyền của quản trị viên trò chuyện để thực hiện điều đó trong cuộc trò chuyện được chỉ định.
